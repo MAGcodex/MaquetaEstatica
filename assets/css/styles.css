@@ -1,0 +1,10 @@
+header {background-color: black;}
+
+h1{
+    color: orange
+}
+h2{
+    color:aliceblue
+}
+.navbar{filter: grayscale();
+}
